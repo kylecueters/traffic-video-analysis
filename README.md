@@ -8,10 +8,10 @@ To run the program you will need to install some packages, see prerequisites.
 
 ### Prerequisites
 
-Python 3
-OpenCV-Python
-NumPy
-Schedule
+* Python 3
+* OpenCV-Python
+* NumPy
+* Schedule
 
 ### Installing
 
@@ -43,15 +43,12 @@ C:\PYTHON-PATH\python.exe C:\PROGRAM-PATH\FinalVideoAnalysis.py
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python](https://www.python.org/) - The programming language used
+* [OpenCV](https://opencv.org/) - Computer vision library used
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Kyle Allen Cueto** - *Initial work* - [kylecueters](https://github.com/kylecueters)
 
 ## License
 

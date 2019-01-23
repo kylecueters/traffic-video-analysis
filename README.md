@@ -2,6 +2,9 @@
 
 A traffic video analysis program that counts and measures speed of moving vehicles passing on a lane. This was an undergrad thesis in Computer Science program entitled A Short-Term Traffic Counts Forecasting using Seasonal ARIMA Time Series Analysis and Forecasting Algorithm presented on December 2017 at Manuel S. Enverga University Foundation, Philippines.
 
+### Screenshot
+![Screenshot](screenshot.png)
+
 ## Getting Started
 
 To run the program you will need to install some packages, see prerequisites.

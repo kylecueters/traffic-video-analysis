@@ -1,40 +1,45 @@
 # Traffic Video Analysis
 
-A traffic video analysis program that counts and measures speed of moving vehicles passing on a lane. This was an undergrad thesis in Computer Science program presented on December 2017 at Manuel S. Enverga University Foundation, Philippines.
+A traffic video analysis program that counts and measures speed of moving vehicles passing on a lane. This was an undergrad thesis in Computer Science program entitled A Short-Term Traffic Counts Forecasting using Seasonal ARIMA Time Series Analysis and Forecasting Algorithm presented on December 2017 at Manuel S. Enverga University Foundation, Philippines.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To run the program you will need to install some packages, see prerequisites.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Python 3
+OpenCV-Python
+NumPy
+Schedule
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Install Python 3 here https://www.python.org/downloads/.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+Installing opencv-python
 
 ```
-until finished
+pip install opencv-python
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Installing numpy
 
-## Running the tests
+```
+pip install numpy
+```
 
-Explain how to run the automated tests for this system
+Installing schedule
+
+```
+pip install schedule
+```
+
+## Running the program
+
+```
+C:\PYTHON-PATH\python.exe C:\PROGRAM-PATH\FinalVideoAnalysis.py
+```
 
 ## Built With
 

@@ -51,7 +51,7 @@ dateTime = str(datetime.datetime.fromtimestamp(timeNow).strftime('%Y-%m-%d %H:%M
 def nothing():
     pass
 
-vc = cv2.VideoCapture('7AM.avi')
+vc = cv2.VideoCapture('YOUR VIDEO FILENAME HERE SHOULD BE IN THE CURRENT FOLDER.avi') 
 
 db.create_table1_trafficRecordToSM()
 db.create_table1_trafficRecordToCalmar()
